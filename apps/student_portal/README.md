@@ -328,8 +328,8 @@ This application is built using the following technologies:
 ## 📁 Project Structure
 
 ```
-student_management/
-├── student_management/
+student_portal/
+├── student_portal/
 │   ├── __init__.py
 │   ├── hooks.py           # App configuration and hooks
 │   ├── modules.txt        # App modules
@@ -371,8 +371,7 @@ This project is licensed under the MIT License - see the [LICENSE](license.txt) 
 **Hardi Mody**
 
 - Email: modyhardi26@gmail.com
-- GitHub: [@laveshparyani](https://github.com/laveshparyani)
-- Project Link: [https://github.com/laveshparyani/walnutedu-student-management](https://github.com/laveshparyani/walnutedu-student-management)
+
 
 ## 🙏 Acknowledgments
 
